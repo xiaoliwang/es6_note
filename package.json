@@ -1,0 +1,26 @@
+{
+  "name": "es6_note",
+  "version": "0.0.1",
+  "description": "this is a note of es6",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoliwang/es6_note.git"
+  },
+  "keywords": [
+    "es6",
+    "note"
+  ],
+  "author": "TomCao <jiepengthegreat@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoliwang/es6_note/issues"
+  },
+  "homepage": "https://github.com/xiaoliwang/es6_note#readme",
+  "devDependencies": {
+    "should": "^7.0.2"
+  }
+}
